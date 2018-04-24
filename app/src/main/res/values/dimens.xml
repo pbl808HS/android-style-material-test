@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="banner_login">100sp</dimen>
+    <dimen name="login_footer_link">30dp</dimen>
+    <dimen name="text_sp">5sp</dimen>
+</resources>

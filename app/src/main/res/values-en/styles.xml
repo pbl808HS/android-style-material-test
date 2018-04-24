@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme">Theme</style>
+
+    <style name="ThemeOverlay">ThemeOverlay</style>
+
+    <dimen name="text_button">26sp</dimen>
+    <dimen name="text_button_dimen">18sp</dimen>
+</resources>
